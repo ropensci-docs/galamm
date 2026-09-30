@@ -1,0 +1,18 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  galamm: galamm.html
+  glmm_factor: glmm_factor.html
+  latent_observed_interaction: latent_observed_interaction.html
+  lmm_factor: lmm_factor.html
+  lmm_heteroscedastic: lmm_heteroscedastic.html
+  mixed_response: mixed_response.html
+  optimization: optimization.html
+  posterior_sampling: posterior_sampling.html
+  scaling: scaling.html
+  semiparametric: semiparametric.html
+last_built: 2026-09-30T12:34Z
+urls:
+  reference: https://docs.ropensci.org/galamm/reference
+  article: https://docs.ropensci.org/galamm/articles
