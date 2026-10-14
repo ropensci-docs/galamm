@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a35e73c1f7c3a60889a889a68d32e46f52fbff9a",
+    "author": "Øystein Sørensen <oystein_sorensen@hotmail.com>",
+    "time": "2026-10-07T10:14:21Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #260 from eddelbuettel/fix/eigen_5.0.1\n\nFor Eigen 5.0.* switch to Map<SparseMatrix>, update autodiff"
+  },
+  "repo": "https://github.com/ropensci/galamm",
+  "pkg": "galamm",
+  "time": "2026-10-14T12:03:28Z"
+}
