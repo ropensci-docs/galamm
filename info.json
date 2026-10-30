@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "76263555c20961eccd201ff07688c0866d7c2cad",
+    "author": "Øystein Sørensen <oystein_sorensen@hotmail.com>",
+    "time": "2026-10-30T17:59:51Z",
+    "files": 1,
+    "merge": false,
+    "message": "small fix\n"
+  },
+  "repo": "https://github.com/ropensci/galamm",
+  "pkg": "galamm",
+  "time": "2026-10-30T21:02:57Z"
+}
